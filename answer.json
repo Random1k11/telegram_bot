@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "message": {
+        "text": "Привет всем",
+        "from": {
+          "username": "Qazart",
+          "language_code": "ru",
+          "first_name": "Dmitry",
+          "id": 343968040,
+          "is_bot": false
+        },
+        "date": 1553027683,
+        "message_id": 809,
+        "chat": {
+          "username": "Qazart",
+          "type": "private",
+          "first_name": "Dmitry",
+          "id": 343968040
+        }
+      },
+      "update_id": 875960704
+    }
+  ]
+}
