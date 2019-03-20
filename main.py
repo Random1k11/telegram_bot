@@ -11,7 +11,7 @@ from coin_market import *
 app = Flask(__name__)
 #sslify = SSLify(app)
 
-URL = 'https://api.telegram.org/bot408697626:AAHW5D48WVfee5zTT3nZmQ58OPsauhLhVzA/'
+
 
 def get_updates():
     #https://api.telegram.org/bot408697626:AAHW5D48WVfee5zTT3nZmQ58OPsauhLhVzA/getUpdates
